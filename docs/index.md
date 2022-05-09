@@ -20,6 +20,12 @@ In this project, we will explore Melbourne city's urban forest, and try to take 
 
 
 
+
+
+
+[Link to another page](./PAGE1.html).
+
+
 ![image description](treeloc.png)
 
 You can use the [editor on GitHub](https://github.com/mariapiamacedo/testsite.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
