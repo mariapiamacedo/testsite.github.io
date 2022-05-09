@@ -1,4 +1,8 @@
-# Tree impact
+---
+layout: default
+title: Tree impact
+description: description
+---
 
 ## Impact on temperature
 To examine the impact of trees on the temperature, we add two datasets to the analysis. The first contains the locations of microclimate sensors in Melbourne and the second one contains the actual readings these sensors made. The second dataset contains a lot of different variables, but for our analysis we only use the temperature. 
