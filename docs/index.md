@@ -11,7 +11,7 @@ In this project, we will explore Melbourne city's urban forest, and try to take 
 
 <iframe src="/testsite.github.io/tree-coverage-cumsum.html"
 	sandbox="allow-same-origin allow-scripts"
-	width="50%"
+	width="100%"
 	height="500"
 	scrolling="no"
 	seamless="seamless"
