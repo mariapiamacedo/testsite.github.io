@@ -2,3 +2,5 @@ baseURL = 'https://mariapiamacedo.github.io/testsite.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
+[markup.goldmark.renderer]
+  unsafe = true
