@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Melbourn City data
 
 ## Introduction
