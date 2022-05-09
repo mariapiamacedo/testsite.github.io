@@ -1,7 +1,8 @@
-## Welcome to GitHub Pages
+<## Welcome to GitHub Pages
 
 ## WE FUCKING DID A WEBSITE!!!!!!!!!!!!!!
 
+[Link to another page](PAGE1.md).
 
 ![image description](treeloc.png)
 
