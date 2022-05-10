@@ -15,7 +15,7 @@ In this section, we will explore _Melbourne city's urban forest_, and try to tak
 
 ***
 
-## Trees location and its influence over maturity 
+# Trees location and its influence over maturity 
 
 The City of Melbourne currently maintains more than 70,000 trees planted all around the urban space, however, we only have cleaned, and accurate data for nearly 54,000, and therefore only this number of trees will be considered over the entire analysis. 
 
@@ -62,7 +62,7 @@ Bellow it can find an overview of the 10 most planted families of trees in that 
 
 ***
 
-## Trees Diversification
+# Trees Diversification
 
 Diversification is a key approach to reducing risk. Combining different species makes the forest more resilient and more stable in the long term.
 Not doing so, weakens the urban forest's capability of fighting pests, disease, and stress due to climate change.
