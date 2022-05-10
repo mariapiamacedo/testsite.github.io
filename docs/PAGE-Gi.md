@@ -10,7 +10,7 @@ This section aims to include the demographic aspect into the analysis so far con
 The perspective adopted in this analysis will consider, in particular, **income**, __education__ and **language spoken**. Those three specific topics have been selected for their relevance as considered also in this study [1].
 
 Before diving into the analysis according to the different demographic aspects, it is interesting to recall the first visualization from the [Tree presentation](https://mariapiamacedo.github.io/testsite.github.io/PAGE1.html) section and see the differences or similarities in the amount of trees planted in the several Melbourne areas. \
-The period from 2003 until only 2016 has been considered, for the sake of consistency since the data used comes from the census of that year. Doing so, correspondences between this feature and demographic factors can be investigated.
+The period from 2003 until only 2016 has been considered for the sake of consistency, since the data used comes from the census of that year. Doing so, correspondences between this feature and demographic factors can be investigated.
 
 <iframe src="/testsite.github.io/Planted_geoheatmap.html"
 	sandbox="allow-same-origin allow-scripts"
@@ -21,7 +21,7 @@ The period from 2003 until only 2016 has been considered, for the sake of consis
 	frameborder="2">
 </iframe>
 
-A higher number of trees are planted over the years in _Parkville_ and *Kensington* compared to the other areas. Demographical factors as well as geographical play a role in influencing that finding. Nevertheless, only the former are explored in this project.
+A higher number of trees are planted over the years in _Parkville_ and *Kensington* compared to the other areas. Demographical factors as well as geographical play a role in influencing that outcome. Nevertheless, only the former are explored in this project.
 
 # Income
 The different areas are now compared concerning their residents' median income. A straightforward visualization of the result of this comparison is provided by the horizontal bar chart below. Furthermore, a choropleth map makes possible to classify the different areas according to the median income.
@@ -42,13 +42,14 @@ The different areas are now compared concerning their residents' median income. 
 By looking at the total area considered, the richer areas seems to be on the west and south sides, and are *Kensington*, _Docklands_ and *Southbank*, a part from _East Melbourne_ that is the reachest by far.
 
 # Education
-Concerning education, the results are presented in the same way as they were for income. More specifically, with education has been considered the education level of the residents, namely the proportion of population that owns a degree is considered to compare the different areas.
+Concerning education, the results are presented in the same way as they were for income. More specifically, with education has been considered the education level of the residents, namely it has been considered the proportion of population that owns a degree to compare the different areas.
 
 <center>
 	<img src="education_bar.png">
 </center>
 
-As can be seen in the horizontal bar chart above, there is less discrepancy among the areas, also due to the fact that a proportion is considered in this case instead of an absolute value. The more educated is _East Melbourne_, followed by *Kensington* and _Carlton_. Whereas, the least educated is West Melbourne.
+As can be seen in the horizontal bar chart above, there is less discrepancy among the areas, mostly due to the fact that a proportion is considered in this case instead of an absolute value. \
+The more educated is _East Melbourne_, followed by *Kensington* and _Carlton_. Whereas, the least educated is West Melbourne.
 
 <iframe src="/testsite.github.io/Education_geomap.html"
 	sandbox="allow-same-origin allow-scripts"
@@ -68,7 +69,7 @@ Finally, the last factor is measured by the goodness of language spoken, in part
 	<img src="ethnicity_bar.png">
 </center>
 
-_East Melbourne_ is the former again, and it can be argued that is not an unusual result because income, level of education and level of spoken English are somehow demographically connected by the mutual influence they can have on each other. \
+_East Melbourne_ has the highest score again, and it can be argued that is not an unusual result because income, level of education and level of spoken English are somehow demographically connected by the mutual influence they can have on each other. \
 Nevertheless, the other areas look more shuffled respect to the previous rankings.
 
 <iframe src="/testsite.github.io/Ethnicity_geomap.html"
