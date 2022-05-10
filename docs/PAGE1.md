@@ -50,11 +50,11 @@ Diversification is a key approach to reducing risk. Combining different species 
 Not doing so, weakens the urban forest's capability of fighting pests, disease, and stress due to climate change.
 
 <center>
-	<img src="treeFamsDivers.png">
+	<img src="treeFamsDivers.png" | width=500>
 </center>
 
 <center>
-	<img src="treeGenusDivers.png">
+	<img src="treeGenusDivers.png" | width=500>
 </center>
 
 1. **Eucalyptus** are Austrailian native trees, fast growing sources of wood and oil producers that can be used for cleaning and as a natural insecticides.
