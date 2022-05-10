@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tree presentation
-description: description of the page
+description: Melbourne urban forest - Tree planting trends
 ---
 
 # Introduction
@@ -15,8 +15,8 @@ In this project, we will explore Melbourne city's urban forest, and try to take 
 
 ***
 
-The City of Melbourne currently maintains more than 70,000 trees planted all around the urban space, however, we only have cleaned data for nearly 54,000 and therefore only this number of trees will be considered over the entire analysis.
-
+The City of Melbourne currently maintains more than 70,000 trees planted all around the urban space, however, we only have cleaned, and accurate data for nearly 54,000, and therefore only this number of trees will be considered over the entire analysis. 
+Since 2003, due to the 'Melbourne's Urban Forest project, different types of trees were planted slowly covering the city with green areas as we can see in the video below.
 
 <iframe src="/testsite.github.io/tree-coverage-cumsum.html"
 	sandbox="allow-same-origin allow-scripts"
