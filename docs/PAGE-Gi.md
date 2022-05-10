@@ -83,7 +83,7 @@ As shown by also the choropleth map above, best speakers are not all living in a
 It is also worth to mention that the scores of the different areas are quite close to each other. That is because still a proportion has been considered, but also Melbourne is an English-speaking city. Therefore, the fairly big difference in the lengths of the bar chart and in the colors of the maps should serve as a help for the viewer but not be misleading.
 
 
-# References
+### References
 1. _Caragh G. Threlfall, Lucy Dubrelle Gunn, Melanie Davern, Dave Kendal, "Beyond the luxury effect: Individual and structural drivers lead to ‘urban
 forest inequity’ in public street trees in Melbourne, Australia", 19 November 2021, Landscape and Urban Planning journal_
 
