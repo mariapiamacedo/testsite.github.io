@@ -34,7 +34,8 @@ Nonetheless, to fit the model with all the features, the categorical data had to
 	<img src="negcorr.png">
 </center>
 
-After reducing the features dimensionality to a total number of 9 (Explaining 99% of the entire data)
+After reducing the dimensionality of the features to a total number of 17 (Explaining 98.5% of the entire data) and fitting the data to a Random Forest Classifier, we got a model with an accuracy of 87%.
+The importance of the features presented below is not therefore much informative due to the dimensionality reduction.
 
 <center>
 	<img src="featuresImp.png">
@@ -44,8 +45,7 @@ After reducing the features dimensionality to a total number of 9 (Explaining 99
 # Limitations
 
 1. The model can't be easily escalated to other cities as it was trained mostly with Australian native trees species.
-1. xx
-1. 
+1. Due to the dimensionality reduction, one cannot be sure which original feature influences the target variable the most.
 
 
 [back](./)
