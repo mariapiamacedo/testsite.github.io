@@ -19,4 +19,6 @@ In this section we present a couple of visualizations to examine the relationshi
 **[Demographic perspective](./PAGE-Gi.html)**  
 This section includes the demographic aspects into the analysis. 
 
+**[Explainer Notebook](https://github.com/mariapiamacedo/Explainer-Notebook)**
 
+**[Link to data](https://drive.google.com/drive/folders/1C0hoLfB7RSx1HmVi4FAih5qamvXv2JO6?usp=sharing)**
