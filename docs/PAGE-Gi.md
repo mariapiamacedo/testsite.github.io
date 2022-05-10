@@ -25,6 +25,17 @@ A higher number of trees are planted over the years in _Parkville_ and *Kensingt
 ## Income
 The different areas are now compared concerning their residents' median income. A straightforward visualization of the result of this comparison is provided by the horizontal bar chart below. Furthermore, a choropleth map makes possible to classify the different areas according to the median income.
 
+<p float="left">
+  <img src="income_bar.png">
+  <iframe src="/testsite.github.io/Income_geomap.html"
+	sandbox="allow-same-origin allow-scripts"
+	width="50%"
+	height="250"
+	scrolling="no"
+	seamless="seamless"
+	frameborder="2">
+</iframe>
+</p>
 <center>
 	<img src="income_bar.png">
 </center>
