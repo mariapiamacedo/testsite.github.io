@@ -53,8 +53,6 @@ Not doing so, weakens the urban forest's capability of fighting pests, disease, 
 	<img src="treeFamsDivers.png">
 </center>
 
-xx
-
 <center>
 	<img src="treeGenusDivers.png">
 </center>
