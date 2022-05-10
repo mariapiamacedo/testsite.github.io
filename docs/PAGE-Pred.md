@@ -16,6 +16,13 @@ Therefore, we created a model that predicts the 'Useful time expectancy' of a tr
 * The year it was planted and its Age description',
 * Weather it is located on a street or a park.
 
+Immedi
+
+<center>
+	<img src="CorrInit.PNG" | width=500>
+</center>
+
+
 # Limitations
 
 1. The model can't be easily escalated to other cities as it was trained mostly with Australian native trees species.
