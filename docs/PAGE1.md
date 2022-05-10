@@ -30,7 +30,9 @@ Since 2003, due to the 'Melbourne's Urban Forest project, different types of tre
 
 In the following visualization, one can get a perspective of where are the more mature trees planted, as well as the newest ones. The darker the dots are, the more mature a tree is. When compared with the video above, it can be seen that the most developed trees are located in the oldest part of the city (left side) that nowadays are not more densely populated by trees than other surrounding areas.
 
-![image description](treeLocByAgeDesc.png)
+<center>
+	<img src="treeLocByAgeDesc.png">
+</center>
 
 69% of the trees are planted in the streets and the remaining 31% in parks. This is quite interesting if one notices that parks account for nearly 0.05% of the city's total area. So even though more trees are planted in the street (considering absolute values), the same amount survived until maturity in both locations. This implies that Parks are in fact a better environment for tree development.
 
@@ -43,7 +45,9 @@ In the following visualization, one can get a perspective of where are the more 
 Diversification is a key approach to reducing risk. Combining different species makes the forest more resilient and more stable in the long term.
 Not doing it weakens the urban forest's capability of fighting pests, disease, and stress due to climate change.
 
-![image description](treeGenusDivers.png)
+<center>
+	<img src="treeGenusDivers.png">
+</center>
 
 * **Eucalyptus** are Austrailian native trees, fast growing sources of wood and oil producers that can be used for cleaning and as a natural insecticides.
 
