@@ -16,7 +16,7 @@ In this section we present a Random Forest Classifier to predict the Life Expect
 **[Trees impact](./PAGE-Vera.html)**  
 In this section we present a couple of visualizations to examine the relationship between trees and temperature and to see if there are more trees surrounding certain types of facilities.
 
-**[Demographic prespective](./PAGE-Gi.html)**  
+**[Demographic perspective](./PAGE-Gi.html)**  
 This section includes the demographic aspects into the analysis. 
 
 
