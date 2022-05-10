@@ -28,9 +28,7 @@ Since 2003, due to the 'Melbourne's Urban Forest project, different types of tre
 	frameborder="2">
 </iframe>
 
-
-blablabla
-
+In the following visualization, one can get a perspective of where are the more mature trees planted, as well as the newest ones. The darker the dots are, the more mature a tree is. When compared with the video above, it can be seen that the most developed trees are located in the oldest part of the city (left side) that nowadays are not more densely populated by trees than other surrounding areas.
 
 ![image description](treeLocByAgeDesc.png)
 
