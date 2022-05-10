@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Demographic prespective
+title: Demographic perspective
 description: description
 ---
 
