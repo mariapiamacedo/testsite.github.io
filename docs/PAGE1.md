@@ -42,6 +42,24 @@ In the following visualization, one can get a perspective of where are the more 
 	<img src="NofTressStreetPark.png">
 </center>
 
+If we take a closer look at how many trees were planted per year since 2003, it is clear that 2013 stands out quite notorious comparing with the other years.  This can be explained by the approval of the 'Urban forest' strategy in 2012 that sat a bold target of doblind the canopy within less than 30 years. Furthermore, by that time many of Melbourne's trees were reaching the end of their natural life span which created an immediate urgency of replanting.  
+
+<center>
+	<img src="NofTressPerYear.png">
+</center>
+
+The great majority of these trees were planted in the Royal Park which doesn't come as a big surprise after our first conclusion about trees' reaching a higher maturity when located in parks. This, together with the fact that the royal park is an old green space within the city with a higher chance of having kept old trees until that date. These trees were most likely reaching their end of life and were therefore replanted that same year after the strategy approval.
+
+<center>
+	<img src="treeLoc2013.png">
+</center>
+
+Bellow it can find an overview of the 10 most planted families of trees in that year (2013). The red dashed line is a threshold of 200 trees planted that provides a better understanding when comparing the different families. 3 out of the 34 existing families of trees alone - Myrtaceae, Fabaceae, and Casuarinaceae - account for 81% of the total amount of trees planted in 2013.
+
+<center>
+	<img src="top10FamPlanted2013.png">
+</center>
+
 ***
 
 ## Trees Diversification
