@@ -32,5 +32,26 @@ In the following visualization, one can get a perspective of where are the more 
 
 ![image description](treeLocByAgeDesc.png)
 
+69% of the trees are planted in the streets and the remaining 31% in parks. This is quite interesting if one notices that parks account for nearly 0.05% of the city's total area. So even though more trees are planted in the street (considering absolute values), the same amount survived until maturity in both locations. This implies that Parks are in fact a better environment for tree development.
+
+![image description](NofTressStreetPark.png)
+
+***
+Diversification is a key approach to reducing risk. Combining different species makes the forest more resilient and more stable in the long term.
+Not doing it weakens the urban forest's capability of fighting pests, disease, and stress due to climate change.
+
+![image description](treeGenusDivers.png)
+
+* **Eucalyptus** are Austrailian native trees, fast growing sources of wood and oil producers that can be used for cleaning and as a natural insecticides.
+
+* **Acacias** are native to Australia and Africa and easily grow in warm climates. Most types are fast growers but usualy dont live more than 20-30years.
+
+* **Allocasuarina** is endemic to Australia. Tipical of nutrient-impoverished soils
+
+* **Corymbia** is referred to as eucalypts. Until 1990, corymbias were included in the genus Eucalyptus and there is still considerable disagreement among botanists as to whether separating them is valid. As of January 2020, Corymbia is an accepted name at the Australian Plant Census.
+
+* **Casuarina** native to Australia. fast growing with wide-ranging adaptability to differnet environmnets.
+
+
 
 [back](./)
