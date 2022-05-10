@@ -19,7 +19,7 @@ Therefore, we created a model that predicts the 'Useful time expectancy' of a tr
 Immedi
 
 <center>
-	<img src="CorrInit.PNG" | width=500>
+	<img src="CorrInit.PNG">
 </center>
 
 
