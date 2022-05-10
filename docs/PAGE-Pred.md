@@ -23,6 +23,21 @@ Immedi
 </center>
 
 
+<center>
+	<img src="poscorr.png">
+</center>
+
+
+<center>
+	<img src="negcorr.png">
+</center>
+
+
+<center>
+	<img src="featuresImp.png">
+</center>
+
+
 # Limitations
 
 1. The model can't be easily escalated to other cities as it was trained mostly with Australian native trees species.
