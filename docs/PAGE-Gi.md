@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Demographic perspective
-description: description
+description: Melbourne urban forest from a demographic perspective
 ---
 
 ## Introduction
