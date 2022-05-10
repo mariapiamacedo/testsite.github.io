@@ -34,9 +34,12 @@ In the following visualization, one can get a perspective of where are the more 
 
 69% of the trees are planted in the streets and the remaining 31% in parks. This is quite interesting if one notices that parks account for nearly 0.05% of the city's total area. So even though more trees are planted in the street (considering absolute values), the same amount survived until maturity in both locations. This implies that Parks are in fact a better environment for tree development.
 
-![image description](NofTressStreetPark.png)
+<center>
+	<img src="NofTressStreetPark.png">
+</center>
 
 ***
+
 Diversification is a key approach to reducing risk. Combining different species makes the forest more resilient and more stable in the long term.
 Not doing it weakens the urban forest's capability of fighting pests, disease, and stress due to climate change.
 
