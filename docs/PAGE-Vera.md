@@ -70,3 +70,8 @@ The bar chart shows that there are a lot more Leisure/Recreation facilities in M
 </center>
 
 The boxplot shows that there are no big differences in the number of trees surrounding different types of facilities. Around leisure and recreation facilities there seem to be a little bit more trees than around the other facility types. In order to reduce stress and anxiety amongst citizens in Melbourne it could be a good idea for the city to focus on planting more trees around the other facility types, because those facility types are already stressful places. Because of the stress-reducing effect of trees, it would be good to have more trees around those facilities.
+
+
+
+
+[back](./)
