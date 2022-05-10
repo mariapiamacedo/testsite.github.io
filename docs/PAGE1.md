@@ -68,12 +68,10 @@ Diversification is a key approach to reducing risk. Combining different species 
 Not doing so, weakens the urban forest's capability of fighting pests, disease, and stress due to climate change.
 
 <center>
-	<img src="treeFamsDivers.png">
-</center>
-
-<center>
 	<img src="treeGenusDivers.png">
 </center>
+
+Brief description of top 4 most planted trees families:
 
 1. **Eucalyptus** are Austrailian native trees, fast growing sources of wood and oil producers that can be used for cleaning and as a natural insecticides.
 
@@ -85,7 +83,6 @@ Not doing so, weakens the urban forest's capability of fighting pests, disease, 
 
 1. **Casuarina** native to Australia. fast growing with wide-ranging adaptability to differnet environmnets.
 
-
-
+It can be concluded that Melbourne city is investing in diversification as a risk management approach. It would also be expected that the most planted trees are native as those were the ones initially developing in the country with its water, soil, and environmental conditions.
 
 [back](./)
