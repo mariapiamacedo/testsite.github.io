@@ -16,22 +16,25 @@ Therefore, we created a model that predicts the 'Useful time expectancy' of a tr
 * The year it was planted and its Age description',
 * Weather it is located on a street or a park.
 
-Immedi
+The numerical data features correlation with the target variable **Useful Life Expectancy** is shown in the table below.
 
 <center>
 	<img src="CorrInit.PNG">
 </center>
 
+It is immediately evident that the feature influencing the target the most is the diameter of the breast height. Its negative correlation can be interpreted as _the bigger the diameter, the older the tree, and therefore smaller is its life expectancy_.
+
+Nonetheless, to fit the model with all the features, the categorical data had to be parsed into binary and therefore many new features were created. The 5 more positively correlated with the target can be seen in the first graph below in orange and the 5 more negatively correlated in the second one in green.
 
 <center>
 	<img src="poscorr.png">
 </center>
 
-
 <center>
 	<img src="negcorr.png">
 </center>
 
+After reducing the features dimensionality to a total number of 9 (Explaining 99% of the entire data)
 
 <center>
 	<img src="featuresImp.png">
