@@ -9,7 +9,7 @@ This section aims to include the demographic aspect into the analysis so far con
 
 The perspective adopted in this analysis will consider, in particular, **income**, __education__ and **language spoken**. Those three specific topics have been selected for their relevance as considered also in this study [1].
 
-Before diving into the analysis according to the different demographic aspects, it is interesting to see the differences or similarities in the amount of trees planted in the several Melbourne areas. \
+Before diving into the analysis according to the different demographic aspects, it is interesting to recall the first visualization from the [Tree presentation](https://mariapiamacedo.github.io/testsite.github.io/PAGE1.html) section and see the differences or similarities in the amount of trees planted in the several Melbourne areas. \
 The period from 2003 until only 2016 has been considered, for the sake of consistency since the data used comes from the census of that year. Doing so, correspondences between this feature and demographic factors can be investigated.
 
 <iframe src="/testsite.github.io/Planted_geoheatmap.html"
