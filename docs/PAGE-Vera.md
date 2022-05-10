@@ -1,6 +1,13 @@
-# Tree impact
+---
+layout: default
+title: Tree impact
+description: The impact of trees on Melbourne
+---
 
-## Impact on temperature
+# Introduction
+In this section we explore the impact of trees on different aspects of life in Melbourne. We will look at the influence of the trees on the temperature in different locations in the city by comparing the number of trees with the temperatures measured by sensors. On top of that, we will explore the amount of trees located around different facility types to see if there is a difference there.
+
+# Impact on temperature
 To examine the impact of trees on the temperature, we add two datasets to the analysis. The first contains the locations of microclimate sensors in Melbourne and the second one contains the actual readings these sensors made. The second dataset contains a lot of different variables, but for our analysis we only use the temperature. 
 
 
@@ -40,7 +47,7 @@ To further investigate the relationships between trees and temperature we made a
 
 The linear regression model has a high R2-score of 0.83, which means the model is good at predicting the temperature in Melbourne when given the time of the day and the number of trees surrounding the sensor. However, the lolipop plot shows that the number of trees has a very low influence on the temperature, which we already suspected from the map we made before. To make a better analysis of the influence of the trees, more data has to be available with historic tree numbers in Melbourne, so the analysis can be done on more than just one day. On top of that, there could be other environmental factors that influence the temperature, for example the presence of water by the sensor. 
 
-## Impact on anxiety and stress
+# Impact on anxiety and stress
 
 Trees have a positive influence on anxiety and stress levels of people ([source](https://www.weforum.org/agenda/2021/04/city-trees-reduce-stress-and-anxiety/)). Therefore we are examining the presence of trees around certain facilities in Melbourne. To do this we add an extra dataset to the analysis. This dataset contains the locations of facilities in Melbourne, and a few extra variables: theme, sub theme and feature name.  
 
